@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "BIC-001",
+        "nombre": "Montaña Trail 29",
+        "cantidad": 3,
+        "estado": "Bueno",
+        "ubicacion": "Bodega A"
+    },
+    {
+        "codigo": "BIC-002",
+        "nombre": "Urbana City 700",
+        "cantidad": 5,
+        "estado": "Regular",
+        "ubicacion": "Sala de ventas"
+    },
+    {
+        "codigo": "BIC-003",
+        "nombre": "Ruta Speed Pro",
+        "cantidad": 2,
+        "estado": "Bueno",
+        "ubicacion": "Bodega B"
+    },
+    {
+        "codigo": "BIC-004",
+        "nombre": "Infantil Mini Bike",
+        "cantidad": 4,
+        "estado": "En reparación",
+        "ubicacion": "Taller"
+    },
+    {
+        "codigo": "BIC-005",
+        "nombre": "Eléctrica Eco Ride",
+        "cantidad": 1,
+        "estado": "Dañado",
+        "ubicacion": "Taller"
+    },
+    {
+        "codigo": "1",
+        "nombre": "montaña",
+        "cantidad": 3,
+        "estado": "Bueno",
+        "ubicacion": "Mexico"
+    }
+]
